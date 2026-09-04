@@ -2,7 +2,7 @@
 
 ## Repository
 
-GitHub Repository: YOUR-REPOSITORY-LINK
+GitHub Repository: https://github.com/BlueShirt03/cicd-git-workflow.git
 
 ---
 
