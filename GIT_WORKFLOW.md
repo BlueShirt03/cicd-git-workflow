@@ -1,5 +1,11 @@
 # Git Workflow Standardization 
 
+## Repository
+
+GitHub Repository: https://github.com/BlueShirt03/cicd-git-workflow.git
+
+---
+
 ## Overview
 
 This repo uses the Feature Branch Workflow to support reliable CI practices
